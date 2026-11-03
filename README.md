@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**harikardy13/harikardy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 💫 About Me:
 <br><br>🎓 B.Tech Electronics & Communication Engineering Graduate from Anurag University (CGPA: 8.94).<br><br>💻 Aspiring Software Developer passionate about Python, Generative AI, and building intelligent applications.<br><br>🛠️ Skilled in Python, Java, SQL, JavaScript, Machine Learning, RAG, and Generative AI technologies.<br><br>🚀 GenAI Intern at LNTEKS Technologies with hands-on experience building AI-powered applications and real-world projects.<br><br>🌱 Always learning, exploring new technologies, and creating innovative solutions to real-world problems.<br>
